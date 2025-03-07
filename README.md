@@ -2,10 +2,9 @@
 
 I managed to get ~~a big part of~~ FULL official v0 system prompts, AI models and tools info. Over 2.8k lines
 
-# There have been some allegations of the VP of AI of v0, Jared Palmer, saying that the system prompt is a hallucination. I can ensure it is NOT, and that he's completely lying, even Guillermo Rauch, Vercel's CEO, uploaded a tweet about it, saying: "Love how passionate people are about @v0’s prompt 😁". Check this out, he's lying: [https://x.com/agentifysh/status/1898062863165735186?s=46](https://x.com/viarnes/status/1898078086798901329?s=46)
+# There have been some allegations of the VP of AI of v0, Jared Palmer, saying that the system prompt is a hallucination. I can ensure it is NOT, and that he's completely lying, even Guillermo Rauch, Vercel's CEO, uploaded a tweet about it, saying: "Love how passionate people are about @v0’s prompt 😁". Check this out, he's lying: [https://x.com/agentifysh/status/1898062863165735186?s=46](https://x.com/viarnes/status/1898078086798901329?s=46) 
 
-
-
+https://x.com/agentifysh/status/1898108321376485528?s=46
 
 
 # What do you want to see next? ---> Open an issue.
