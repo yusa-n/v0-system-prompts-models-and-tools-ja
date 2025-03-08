@@ -8,7 +8,7 @@ https://x.com/agentifysh/status/1898108321376485528?s=46
 
 # 次に見たいものは？---> Issue を開いてください。
 
-最新の更新: 2025/07/03
+最新の更新: 2025/03/07
 
 v0.txt、v0 model.txt、v0 tools.txt で確認できます。
 
